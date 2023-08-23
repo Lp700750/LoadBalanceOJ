@@ -7,7 +7,8 @@
 
 >### 1.1 项目框图
 >
->![Uploading 负载均衡在线OJ框图.drawio.png…]()
+>![负载均衡在线OJ框图 drawio](https://github.com/Lp700750/LoadBalanceOJ/assets/104414865/1087ea39-ddfb-4fcb-953a-380e6b50a1e6)
+
 >
 >### 1.2 所用技术栈
 >
